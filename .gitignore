@@ -1,0 +1,7 @@
+key.env
+__pycache__
+mediapipe/
+pics/
+samples/
+test/
+Extrafiles/
