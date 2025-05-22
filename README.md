@@ -10,9 +10,6 @@ This project implements a real-time system that recognizes hand gestures using a
 *   **Generative AI Integration :** Sends recognized speech to Google Gemini (1.5 Flash model) for a Yes/No type answer.
 *   **Modular Control:** Gesture recognition and speech recognition can be toggled on/off independently during runtime.
 *   **Data Preparation and Training Scripts:** Includes scripts to extract hand landmark data from images and train the gesture recognition model.
-
-## Project Structure
-
 ## Project Structure
 <pre><code>
 project-root/
